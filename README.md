@@ -1,22 +1,8 @@
-React app
+Chat app using React , Router, and Context API
+Firebase for authentication and database
+
 sass for styling
 
-Firebase for Database and auth
-React Router
-Context API
+![image](https://user-images.githubusercontent.com/99732661/190450037-24e6d12d-6579-4a8b-a746-f16e70fd932d.png)
 
-handle all errors?
-
-shlomi
-jane
-adam
-joe
-
-all : @gmail.com
-and test1234
-
-TODO: 
-handleSelect function in Search component
-should have same functionality as in Chats.jsx
-dispatch.. (for updating the username in the chats header bar)
-
+live at versel :
